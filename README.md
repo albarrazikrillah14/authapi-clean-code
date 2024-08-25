@@ -6,8 +6,8 @@ AuthAPI adalah sebuah API sederhana yang dirancang dengan prinsip-prinsip clean 
 
 Pastikan Anda memiliki perangkat lunak berikut yang sudah terpasang di sistem Anda:
 
-- **Node.js** (versi terbaru disarankan)
-- **npm** (biasanya sudah terpasang bersama Node.js)
+- **Node.js** 
+- **Postgres**
 
 ## Instalasi
 
@@ -16,6 +16,6 @@ Pastikan Anda memiliki perangkat lunak berikut yang sudah terpasang di sistem An
    ```bash
    git clone https://github.com/username/authapi-clean-code.git
 2. Jalankan
-  ```bash
-  npm install
-  npm run start
+   ```bash
+   npm install
+   npm run start
