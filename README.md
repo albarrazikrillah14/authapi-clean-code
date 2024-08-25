@@ -18,4 +18,5 @@ Pastikan Anda memiliki perangkat lunak berikut yang sudah terpasang di sistem An
 2. Jalankan
    ```bash
    npm install
+   npm run test
    npm run start
